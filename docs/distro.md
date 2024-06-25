@@ -69,11 +69,6 @@ Global settings for [Discord Rich Presence](https://discordapp.com/developers/do
 * `discord.smallImageText: string` - Tootltip for the `smallImageKey`.
 * `discord.smallImageKey: string` - Name of the uploaded image for the small profile artwork.
 
-
-### `DistroIndex.rss: string/url`
-
-A URL to a RSS feed. Used for loading news.
-
 ---
 
 ## Server Object
