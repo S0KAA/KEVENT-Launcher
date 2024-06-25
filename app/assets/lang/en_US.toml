@@ -126,9 +126,6 @@ updateReleaseNotes = "Update Release Notes"
 [ejs.waiting]
 waitingText = "Waiting for Microsoft.."
 
-[ejs.welcome]
-continueButton = "CONTINUE"
-
 
 [js.discord]
 waiting = "Waiting for Client.."
